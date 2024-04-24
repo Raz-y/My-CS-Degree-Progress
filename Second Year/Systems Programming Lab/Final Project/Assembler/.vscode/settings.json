@@ -1,0 +1,10 @@
+{
+  "cmake.sourceDirectory": "/mnt/c/Users/razy0/Desktop/Final Project/Assembler",
+  "files.associations": {
+    "*.ejs": "html",
+    "typeinfo": "c",
+    "*.tcc": "c",
+    "string": "c",
+    "string_view": "c"
+  }
+}
