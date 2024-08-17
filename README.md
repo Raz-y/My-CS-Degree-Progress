@@ -1,8 +1,10 @@
-# What's this all about
-This repository was created for me to document, reflect and learn from my journey to obtain a Computer Science degree.
-## Objectives:
-  + I would like to document my progress, what I've learned and how, What I enjoyed, and what I disliked.
-  + Accountability, I want this "little" project to hold me accountable.
-  + Challenge, although It's challenging enough, I know, with enough discipline, I can create something I will be proud of
+# My CS Degree Journey
+
+This repository is a space for me to document and reflect on my journey toward earning a Computer Science degree.
+
+## Goals:
+- **Documentation**: Track my progress, highlight what I've learned, and share insights from each course.
+- **Accountability**: Keep myself on track by regularly updating this repository.
+- **Challenge**: Push myself to create something meaningful and reflective of my growth.
   
-## How will this work?
+
